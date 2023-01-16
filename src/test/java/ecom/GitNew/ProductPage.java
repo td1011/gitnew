@@ -23,10 +23,10 @@ public class ProductPage {
 		}
 		else
 		{System.out.println("product is old");}
-		
 
-		
-
-
+	}
+	public static void thirdMethod()
+	{
+		System.out.println("changes made in product");
 	}
 }
