@@ -8,4 +8,8 @@ public class ProductPage {
 
 	}
 
+	public static void secondMethod()
+	{
+		System.out.println("New product launch");
+	}
 }
