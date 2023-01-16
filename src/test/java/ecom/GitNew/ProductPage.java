@@ -8,25 +8,20 @@ public class ProductPage {
 
 	}
 
-	public static void secondMethod()
-	{
+	public static void secondMethod() {
 		System.out.println("New product launch");
 		System.out.println("this line written by rohit");
 
-		for(int i=0;i<9;i++) {
+		for (int i = 0; i < 9; i++) {
 			System.out.println("for loop used when we know the end of iteration");
 		}
 
-		if(true)
-		{
+		if (true) {
 			System.out.println("show all details");
+		} else {
+			System.out.println("product is old");
 		}
-		else
-		{System.out.println("product is old");}
-		
-
-		
-
-
 	}
+
+	
 }
