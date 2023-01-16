@@ -11,6 +11,7 @@ public class ProductPage {
 	public static void secondMethod()
 	{
 		System.out.println("New product launch");
+		System.out.println("this line written by rohit");
 		if(true)
 		{
 			System.out.println("show all details");
@@ -18,5 +19,8 @@ public class ProductPage {
 		else
 		{System.out.println("product is old");}
 		
+
+		
+
 	}
 }
