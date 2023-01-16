@@ -11,5 +11,12 @@ public class ProductPage {
 	public static void secondMethod()
 	{
 		System.out.println("New product launch");
+		if(true)
+		{
+			System.out.println("show all details");
+		}
+		else
+		{System.out.println("product is old");}
+		
 	}
 }
